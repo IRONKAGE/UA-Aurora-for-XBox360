@@ -14,3 +14,5 @@ Aurora v0.7b r1622 Ukrainian Translate by IRONKAGE
 Шкода що Microsoft відхилили мою пропозицію у допомозі з локалізацією XBox-інтерфейсу
 
 Приємного використання
+
+![Система](https://github.com/IRONKAGE/UA-Aurora-for-XBox360/blob/master/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0.jpg)
